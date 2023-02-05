@@ -11,11 +11,4 @@
 
 ## 已转换翻译源
  - source001 [https://www.reddit.com/r/Notion.rss](https://www.reddit.com/r/Notion.rss) -> [reddit_notion.xml](rss/reddit_notion.xml)
- - source001 [https://www.reddit.com/r/Notion.rss](https://www.reddit.com/r/Notion.rss) -> [reddit_notion.xml](rss/reddit_notion.xml)
- - source002 [https://www.reddit.com/r/animation.rss](https://www.reddit.com/r/animation.rss) -> [reddit_animation.xml](rss/reddit_animation.xml)
- - source003 [https://feedle.world/rss/?query=indiehackers](https://feedle.world/rss/?query=indiehackers) -> [feedle_indiehackers.xml](rss/feedle_indiehackers.xml)
- - source004 [https://feedle.world/rss/?query=webhook](https://feedle.world/rss/?query=webhook) -> [feedle_webhook.xml](rss/feedle_webhook.xml)
- - source005 [https://rsshub.app/telegram/channel/Artificial_intelligence_in](https://rsshub.app/telegram/channel/Artificial_intelligence_in) -> [Artificial_intelligence_in.xml](rss/Artificial_intelligence_in.xml)
- - source006 [https://www.reddit.com/r/automation.rss](https://www.reddit.com/r/automation.rss) -> [reddit_automation.xml](rss/reddit_automation.xml)
- - source007 [https://www.reddit.com/r/productivity.rss](https://www.reddit.com/r/productivity.rss) -> [reddit_productivity.xml](rss/reddit_productivity.xml)
- - source008 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [huggingface_blog.xml](rss/huggingface_blog.xml)
+ - source001 [https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19447973&type=etoc&feed=rss](https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19447973&type=etoc&feed=rss) -> [WRR.xml](rss/WRR.xml)
