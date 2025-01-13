@@ -12,3 +12,4 @@
 ## 已转换翻译源
  - source001 [https://www.reddit.com/r/Notion.rss](https://www.reddit.com/r/Notion.rss) -> [reddit_notion.xml](rss/reddit_notion.xml)
  - source001 [https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19447973&type=etoc&feed=rss](https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19447973&type=etoc&feed=rss) -> [WRR.xml](rss/WRR.xml)
+ - source002 [https://www.nature.com/subjects/hydrology.rss](https://www.nature.com/subjects/hydrology.rss) -> [hydrology_nature.xml](rss/hydrology_nature.xml)
